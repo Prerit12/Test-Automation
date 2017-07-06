@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+    <line>
+      <![CDATA[=======Calling Not in Language Test Case= https://www.webqa.lego.com/en-us/architecture ======= <br>]]>
+    </line>
+    <line>
+      <![CDATA[<font color='green'>Passed: </font>Page is available in this Locale = https://www.webqa.lego.com/en-au/architecture?ignorereferer=true<br>]]>
+    </line>
+    <line>
+      <![CDATA[<font color='green'>Passed: </font>Page is available in this Locale = https://www.webqa.lego.com/nl-be/architecture?ignorereferer=true<br>]]>
+    </line>
+    <line>
+      <![CDATA[<font color='green'>Passed: </font>Page is available in this Locale = https://www.webqa.lego.com/fr-be/architecture?ignorereferer=true<br>]]>
+    </line>
+    <line>
+      <![CDATA[<font color='green'>Passed: </font>Not in Language message is present on = https://www.webqa.lego.com/pt-br/architecture?ignorereferer=true<br]]>
+    </line>
+    <line>
+      <![CDATA[<font color='green'>Passed: </font>Page is available in this Locale = https://www.webqa.lego.com/cs-cz/architecture?ignorereferer=true<br>]]>
+    </line>
+    <line>
+      <![CDATA[<font color='green'>Passed: </font>Page is available in this Locale = https://www.webqa.lego.com/da-dk/architecture?ignorereferer=true<br>]]>
+    </line>
+    <line>
+      <![CDATA[<font color='green'>Passed: </font>Page is available in this Locale = https://www.webqa.lego.com/de-de/architecture?ignorereferer=true<br>]]>
+    </line>
+    <line>
+      <![CDATA[<font color='green'>Passed: </font>Page is available in this Locale = https://www.webqa.lego.com/es-es/architecture?ignorereferer=true<br>]]>
+    </line>
+    <line>
+      <![CDATA[<font color='green'>Passed: </font>Page is available in this Locale = https://www.webqa.lego.com/fr-fr/architecture?ignorereferer=true<br>]]>
+    </line>
+    <line>
+      <![CDATA[<font color='green'>Passed: </font>Page is available in this Locale = https://www.webqa.lego.com/it-it/architecture?ignorereferer=true<br>]]>
+    </line>
+    <line>
+      <![CDATA[<font color='green'>Passed: </font>Page is available in this Locale = https://www.webqa.lego.com/es-ar/architecture?ignorereferer=true<br>]]>
+    </line>
+    <line>
+      <![CDATA[<font color='green'>Passed: </font>Page is available in this Locale = https://www.webqa.lego.com/hu-hu/architecture?ignorereferer=true<br>]]>
+    </line>
+    <line>
+      <![CDATA[<font color='green'>Passed: </font>Page is available in this Locale = https://www.webqa.lego.com/en-my/architecture?ignorereferer=true<br>]]>
+    </line>
+    <line>
+      <![CDATA[<font color='green'>Passed: </font>Page is available in this Locale = https://www.webqa.lego.com/nl-nl/architecture?ignorereferer=true<br>]]>
+    </line>
+    <line>
+      <![CDATA[<font color='green'>Passed: </font>Page is available in this Locale = https://www.webqa.lego.com/nb-no/architecture?ignorereferer=true<br>]]>
+    </line>
+    <line>
+      <![CDATA[<font color='green'>Passed: </font>Page is available in this Locale = https://www.webqa.lego.com/pl-pl/architecture?ignorereferer=true<br>]]>
+    </line>
+    <line>
+      <![CDATA[<font color='green'>Passed: </font>Page is available in this Locale = https://www.webqa.lego.com/en-sg/architecture?ignorereferer=true<br>]]>
+    </line>
+    <line>
+      <![CDATA[<font color='green'>Passed: </font>Page is available in this Locale = https://www.webqa.lego.com/fi-fi/architecture?ignorereferer=true<br>]]>
+    </line>
+    <line>
+      <![CDATA[<font color='green'>Passed: </font>Page is available in this Locale = https://www.webqa.lego.com/sv-se/architecture?ignorereferer=true<br>]]>
+    </line>
+    <line>
+      <![CDATA[<font color='green'>Passed: </font>Not in Language message is present on = https://www.webqa.lego.com/tr-tr/architecture?ignorereferer=true<br]]>
+    </line>
+    <line>
+      <![CDATA[<font color='green'>Passed: </font>Page is available in this Locale = https://www.webqa.lego.com/en-gb/architecture?ignorereferer=true<br>]]>
+    </line>
+    <line>
+      <![CDATA[<font color='green'>Passed: </font>Page is available in this Locale = https://www.webqa.lego.com/en-us/architecture?ignorereferer=true<br>]]>
+    </line>
+    <line>
+      <![CDATA[<font color='green'>Passed: </font>Page is available in this Locale = https://www.webqa.lego.com/ru-ru/architecture?ignorereferer=true<br>]]>
+    </line>
+    <line>
+      <![CDATA[<font color='green'>Passed: </font>Page is available in this Locale = https://www.webqa.lego.com/ko-kr/architecture?ignorereferer=true<br>]]>
+    </line>
+    <line>
+      <![CDATA[<font color='green'>Passed: </font>Not in Language message is present on = https://www.webqa.lego.com/zh-cn/architecture?ignorereferer=true<br]]>
+    </line>
+    <line>
+      <![CDATA[Crawl completed<br>]]>
+    </line>
+    <line>
+      <![CDATA[=======Calling Not in Language Test Case= https://www.webqa.lego.com/en-us/angrybirdsmovie ======= <br>]]>
+    </line>
+    <line>
+      <![CDATA[<font color='green'>Passed: </font>Page is available in this Locale = https://www.webqa.lego.com/en-au/angrybirdsmovie?ignorereferer=true<br>]]>
+    </line>
+    <line>
+      <![CDATA[<font color='green'>Passed: </font>Page is available in this Locale = https://www.webqa.lego.com/nl-be/angrybirdsmovie?ignorereferer=true<br>]]>
+    </line>
+    <line>
+      <![CDATA[<font color='green'>Passed: </font>Page is available in this Locale = https://www.webqa.lego.com/fr-be/angrybirdsmovie?ignorereferer=true<br>]]>
+    </line>
+    <line>
+      <![CDATA[<font color='green'>Passed: </font>Not in Language message is present on = https://www.webqa.lego.com/pt-br/angrybirdsmovie?ignorereferer=true<br]]>
+    </line>
+    <line>
+      <![CDATA[<font color='green'>Passed: </font>Page is available in this Locale = https://www.webqa.lego.com/cs-cz/angrybirdsmovie?ignorereferer=true<br>]]>
+    </line>
+    <line>
+      <![CDATA[<font color='green'>Passed: </font>Page is available in this Locale = https://www.webqa.lego.com/da-dk/angrybirdsmovie?ignorereferer=true<br>]]>
+    </line>
+    <line>
+      <![CDATA[<font color='green'>Passed: </font>Page is available in this Locale = https://www.webqa.lego.com/de-de/angrybirdsmovie?ignorereferer=true<br>]]>
+    </line>
+    <line>
+      <![CDATA[<font color='green'>Passed: </font>Page is available in this Locale = https://www.webqa.lego.com/es-es/angrybirdsmovie?ignorereferer=true<br>]]>
+    </line>
+    <line>
+      <![CDATA[<font color='green'>Passed: </font>Page is available in this Locale = https://www.webqa.lego.com/fr-fr/angrybirdsmovie?ignorereferer=true<br>]]>
+    </line>
+    <line>
+      <![CDATA[<font color='green'>Passed: </font>Page is available in this Locale = https://www.webqa.lego.com/it-it/angrybirdsmovie?ignorereferer=true<br>]]>
+    </line>
+    <line>
+      <![CDATA[<font color='green'>Passed: </font>Page is available in this Locale = https://www.webqa.lego.com/es-ar/angrybirdsmovie?ignorereferer=true<br>]]>
+    </line>
+    <line>
+      <![CDATA[<font color='green'>Passed: </font>Page is available in this Locale = https://www.webqa.lego.com/hu-hu/angrybirdsmovie?ignorereferer=true<br>]]>
+    </line>
+    <line>
+      <![CDATA[<font color='green'>Passed: </font>Page is available in this Locale = https://www.webqa.lego.com/en-my/angrybirdsmovie?ignorereferer=true<br>]]>
+    </line>
+    <line>
+      <![CDATA[<font color='green'>Passed: </font>Page is available in this Locale = https://www.webqa.lego.com/nl-nl/angrybirdsmovie?ignorereferer=true<br>]]>
+    </line>
+    <line>
+      <![CDATA[<font color='green'>Passed: </font>Page is available in this Locale = https://www.webqa.lego.com/nb-no/angrybirdsmovie?ignorereferer=true<br>]]>
+    </line>
+    <line>
+      <![CDATA[<font color='green'>Passed: </font>Page is available in this Locale = https://www.webqa.lego.com/pl-pl/angrybirdsmovie?ignorereferer=true<br>]]>
+    </line>
+    <line>
+      <![CDATA[<font color='green'>Passed: </font>Page is available in this Locale = https://www.webqa.lego.com/en-sg/angrybirdsmovie?ignorereferer=true<br>]]>
+    </line>
+    <line>
+      <![CDATA[<font color='green'>Passed: </font>Page is available in this Locale = https://www.webqa.lego.com/fi-fi/angrybirdsmovie?ignorereferer=true<br>]]>
+    </line>
+    <line>
+      <![CDATA[<font color='green'>Passed: </font>Page is available in this Locale = https://www.webqa.lego.com/sv-se/angrybirdsmovie?ignorereferer=true<br>]]>
+    </line>
+    <line>
+      <![CDATA[<font color='green'>Passed: </font>Not in Language message is present on = https://www.webqa.lego.com/tr-tr/angrybirdsmovie?ignorereferer=true<br]]>
+    </line>
+    <line>
+      <![CDATA[<font color='green'>Passed: </font>Page is available in this Locale = https://www.webqa.lego.com/en-gb/angrybirdsmovie?ignorereferer=true<br>]]>
+    </line>
+    <line>
+      <![CDATA[<font color='green'>Passed: </font>Page is available in this Locale = https://www.webqa.lego.com/en-us/angrybirdsmovie?ignorereferer=true<br>]]>
+    </line>
+    <line>
+      <![CDATA[<font color='green'>Passed: </font>Page is available in this Locale = https://www.webqa.lego.com/ru-ru/angrybirdsmovie?ignorereferer=true<br>]]>
+    </line>
+    <line>
+      <![CDATA[<font color='green'>Passed: </font>Page is available in this Locale = https://www.webqa.lego.com/ko-kr/angrybirdsmovie?ignorereferer=true<br>]]>
+    </line>
+    <line>
+      <![CDATA[<font color='green'>Passed: </font>Page is available in this Locale = https://www.webqa.lego.com/zh-cn/angrybirdsmovie?ignorereferer=true<br>]]>
+    </line>
+    <line>
+      <![CDATA[Crawl completed<br>]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="325690" started-at="2017-07-05T05:14:38Z" finished-at="2017-07-05T05:20:04Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="325690" started-at="2017-07-05T05:14:38Z" finished-at="2017-07-05T05:20:04Z">
+      <class name="com.LEGO.testSuite.Running_AlltestCase">
+        <test-method status="PASS" signature="Verify_Not_in_language(java.lang.String)[pri:0, instance:com.LEGO.testSuite.Running_AlltestCase@1565ec2]" name="Verify_Not_in_language" duration-ms="142409" started-at="2017-07-05T13:14:38Z" data-provider="url" finished-at="2017-07-05T13:17:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://www.webqa.lego.com/en-us/architecture]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[=======Calling Not in Language Test Case= https://www.webqa.lego.com/en-us/architecture ======= <br>]]>
+            </line>
+            <line>
+              <![CDATA[<font color='green'>Passed: </font>Page is available in this Locale = https://www.webqa.lego.com/en-au/architecture?ignorereferer=true<br>]]>
+            </line>
+            <line>
+              <![CDATA[<font color='green'>Passed: </font>Page is available in this Locale = https://www.webqa.lego.com/nl-be/architecture?ignorereferer=true<br>]]>
+            </line>
+            <line>
+              <![CDATA[<font color='green'>Passed: </font>Page is available in this Locale = https://www.webqa.lego.com/fr-be/architecture?ignorereferer=true<br>]]>
+            </line>
+            <line>
+              <![CDATA[<font color='green'>Passed: </font>Not in Language message is present on = https://www.webqa.lego.com/pt-br/architecture?ignorereferer=true<br]]>
+            </line>
+            <line>
+              <![CDATA[<font color='green'>Passed: </font>Page is available in this Locale = https://www.webqa.lego.com/cs-cz/architecture?ignorereferer=true<br>]]>
+            </line>
+            <line>
+              <![CDATA[<font color='green'>Passed: </font>Page is available in this Locale = https://www.webqa.lego.com/da-dk/architecture?ignorereferer=true<br>]]>
+            </line>
+            <line>
+              <![CDATA[<font color='green'>Passed: </font>Page is available in this Locale = https://www.webqa.lego.com/de-de/architecture?ignorereferer=true<br>]]>
+            </line>
+            <line>
+              <![CDATA[<font color='green'>Passed: </font>Page is available in this Locale = https://www.webqa.lego.com/es-es/architecture?ignorereferer=true<br>]]>
+            </line>
+            <line>
+              <![CDATA[<font color='green'>Passed: </font>Page is available in this Locale = https://www.webqa.lego.com/fr-fr/architecture?ignorereferer=true<br>]]>
+            </line>
+            <line>
+              <![CDATA[<font color='green'>Passed: </font>Page is available in this Locale = https://www.webqa.lego.com/it-it/architecture?ignorereferer=true<br>]]>
+            </line>
+            <line>
+              <![CDATA[<font color='green'>Passed: </font>Page is available in this Locale = https://www.webqa.lego.com/es-ar/architecture?ignorereferer=true<br>]]>
+            </line>
+            <line>
+              <![CDATA[<font color='green'>Passed: </font>Page is available in this Locale = https://www.webqa.lego.com/hu-hu/architecture?ignorereferer=true<br>]]>
+            </line>
+            <line>
+              <![CDATA[<font color='green'>Passed: </font>Page is available in this Locale = https://www.webqa.lego.com/en-my/architecture?ignorereferer=true<br>]]>
+            </line>
+            <line>
+              <![CDATA[<font color='green'>Passed: </font>Page is available in this Locale = https://www.webqa.lego.com/nl-nl/architecture?ignorereferer=true<br>]]>
+            </line>
+            <line>
+              <![CDATA[<font color='green'>Passed: </font>Page is available in this Locale = https://www.webqa.lego.com/nb-no/architecture?ignorereferer=true<br>]]>
+            </line>
+            <line>
+              <![CDATA[<font color='green'>Passed: </font>Page is available in this Locale = https://www.webqa.lego.com/pl-pl/architecture?ignorereferer=true<br>]]>
+            </line>
+            <line>
+              <![CDATA[<font color='green'>Passed: </font>Page is available in this Locale = https://www.webqa.lego.com/en-sg/architecture?ignorereferer=true<br>]]>
+            </line>
+            <line>
+              <![CDATA[<font color='green'>Passed: </font>Page is available in this Locale = https://www.webqa.lego.com/fi-fi/architecture?ignorereferer=true<br>]]>
+            </line>
+            <line>
+              <![CDATA[<font color='green'>Passed: </font>Page is available in this Locale = https://www.webqa.lego.com/sv-se/architecture?ignorereferer=true<br>]]>
+            </line>
+            <line>
+              <![CDATA[<font color='green'>Passed: </font>Not in Language message is present on = https://www.webqa.lego.com/tr-tr/architecture?ignorereferer=true<br]]>
+            </line>
+            <line>
+              <![CDATA[<font color='green'>Passed: </font>Page is available in this Locale = https://www.webqa.lego.com/en-gb/architecture?ignorereferer=true<br>]]>
+            </line>
+            <line>
+              <![CDATA[<font color='green'>Passed: </font>Page is available in this Locale = https://www.webqa.lego.com/en-us/architecture?ignorereferer=true<br>]]>
+            </line>
+            <line>
+              <![CDATA[<font color='green'>Passed: </font>Page is available in this Locale = https://www.webqa.lego.com/ru-ru/architecture?ignorereferer=true<br>]]>
+            </line>
+            <line>
+              <![CDATA[<font color='green'>Passed: </font>Page is available in this Locale = https://www.webqa.lego.com/ko-kr/architecture?ignorereferer=true<br>]]>
+            </line>
+            <line>
+              <![CDATA[<font color='green'>Passed: </font>Not in Language message is present on = https://www.webqa.lego.com/zh-cn/architecture?ignorereferer=true<br]]>
+            </line>
+            <line>
+              <![CDATA[Crawl completed<br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Verify_Not_in_language -->
+        <test-method status="PASS" signature="Verify_Not_in_language(java.lang.String)[pri:0, instance:com.LEGO.testSuite.Running_AlltestCase@1565ec2]" name="Verify_Not_in_language" duration-ms="183188" started-at="2017-07-05T13:17:00Z" data-provider="url" finished-at="2017-07-05T13:20:04Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://www.webqa.lego.com/en-us/angrybirdsmovie]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[=======Calling Not in Language Test Case= https://www.webqa.lego.com/en-us/angrybirdsmovie ======= <br>]]>
+            </line>
+            <line>
+              <![CDATA[<font color='green'>Passed: </font>Page is available in this Locale = https://www.webqa.lego.com/en-au/angrybirdsmovie?ignorereferer=true<br>]]>
+            </line>
+            <line>
+              <![CDATA[<font color='green'>Passed: </font>Page is available in this Locale = https://www.webqa.lego.com/nl-be/angrybirdsmovie?ignorereferer=true<br>]]>
+            </line>
+            <line>
+              <![CDATA[<font color='green'>Passed: </font>Page is available in this Locale = https://www.webqa.lego.com/fr-be/angrybirdsmovie?ignorereferer=true<br>]]>
+            </line>
+            <line>
+              <![CDATA[<font color='green'>Passed: </font>Not in Language message is present on = https://www.webqa.lego.com/pt-br/angrybirdsmovie?ignorereferer=true<br]]>
+            </line>
+            <line>
+              <![CDATA[<font color='green'>Passed: </font>Page is available in this Locale = https://www.webqa.lego.com/cs-cz/angrybirdsmovie?ignorereferer=true<br>]]>
+            </line>
+            <line>
+              <![CDATA[<font color='green'>Passed: </font>Page is available in this Locale = https://www.webqa.lego.com/da-dk/angrybirdsmovie?ignorereferer=true<br>]]>
+            </line>
+            <line>
+              <![CDATA[<font color='green'>Passed: </font>Page is available in this Locale = https://www.webqa.lego.com/de-de/angrybirdsmovie?ignorereferer=true<br>]]>
+            </line>
+            <line>
+              <![CDATA[<font color='green'>Passed: </font>Page is available in this Locale = https://www.webqa.lego.com/es-es/angrybirdsmovie?ignorereferer=true<br>]]>
+            </line>
+            <line>
+              <![CDATA[<font color='green'>Passed: </font>Page is available in this Locale = https://www.webqa.lego.com/fr-fr/angrybirdsmovie?ignorereferer=true<br>]]>
+            </line>
+            <line>
+              <![CDATA[<font color='green'>Passed: </font>Page is available in this Locale = https://www.webqa.lego.com/it-it/angrybirdsmovie?ignorereferer=true<br>]]>
+            </line>
+            <line>
+              <![CDATA[<font color='green'>Passed: </font>Page is available in this Locale = https://www.webqa.lego.com/es-ar/angrybirdsmovie?ignorereferer=true<br>]]>
+            </line>
+            <line>
+              <![CDATA[<font color='green'>Passed: </font>Page is available in this Locale = https://www.webqa.lego.com/hu-hu/angrybirdsmovie?ignorereferer=true<br>]]>
+            </line>
+            <line>
+              <![CDATA[<font color='green'>Passed: </font>Page is available in this Locale = https://www.webqa.lego.com/en-my/angrybirdsmovie?ignorereferer=true<br>]]>
+            </line>
+            <line>
+              <![CDATA[<font color='green'>Passed: </font>Page is available in this Locale = https://www.webqa.lego.com/nl-nl/angrybirdsmovie?ignorereferer=true<br>]]>
+            </line>
+            <line>
+              <![CDATA[<font color='green'>Passed: </font>Page is available in this Locale = https://www.webqa.lego.com/nb-no/angrybirdsmovie?ignorereferer=true<br>]]>
+            </line>
+            <line>
+              <![CDATA[<font color='green'>Passed: </font>Page is available in this Locale = https://www.webqa.lego.com/pl-pl/angrybirdsmovie?ignorereferer=true<br>]]>
+            </line>
+            <line>
+              <![CDATA[<font color='green'>Passed: </font>Page is available in this Locale = https://www.webqa.lego.com/en-sg/angrybirdsmovie?ignorereferer=true<br>]]>
+            </line>
+            <line>
+              <![CDATA[<font color='green'>Passed: </font>Page is available in this Locale = https://www.webqa.lego.com/fi-fi/angrybirdsmovie?ignorereferer=true<br>]]>
+            </line>
+            <line>
+              <![CDATA[<font color='green'>Passed: </font>Page is available in this Locale = https://www.webqa.lego.com/sv-se/angrybirdsmovie?ignorereferer=true<br>]]>
+            </line>
+            <line>
+              <![CDATA[<font color='green'>Passed: </font>Not in Language message is present on = https://www.webqa.lego.com/tr-tr/angrybirdsmovie?ignorereferer=true<br]]>
+            </line>
+            <line>
+              <![CDATA[<font color='green'>Passed: </font>Page is available in this Locale = https://www.webqa.lego.com/en-gb/angrybirdsmovie?ignorereferer=true<br>]]>
+            </line>
+            <line>
+              <![CDATA[<font color='green'>Passed: </font>Page is available in this Locale = https://www.webqa.lego.com/en-us/angrybirdsmovie?ignorereferer=true<br>]]>
+            </line>
+            <line>
+              <![CDATA[<font color='green'>Passed: </font>Page is available in this Locale = https://www.webqa.lego.com/ru-ru/angrybirdsmovie?ignorereferer=true<br>]]>
+            </line>
+            <line>
+              <![CDATA[<font color='green'>Passed: </font>Page is available in this Locale = https://www.webqa.lego.com/ko-kr/angrybirdsmovie?ignorereferer=true<br>]]>
+            </line>
+            <line>
+              <![CDATA[<font color='green'>Passed: </font>Page is available in this Locale = https://www.webqa.lego.com/zh-cn/angrybirdsmovie?ignorereferer=true<br>]]>
+            </line>
+            <line>
+              <![CDATA[Crawl completed<br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Verify_Not_in_language -->
+      </class> <!-- com.LEGO.testSuite.Running_AlltestCase -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

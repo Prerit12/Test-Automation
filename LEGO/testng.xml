@@ -1,0 +1,15 @@
+<!DOCTYPE suite SYSTEM "http://beust.com/testng/testng-1.0.dtd" >
+<suite name="testing">
+
+	<test name="Test1">
+
+		<parameter name="Architecture" value="https://www.lego.com/en-us/architecture" />
+		<parameter name="Juniors" value="https://www.lego.com/en-us/juniors" />
+
+		<classes>
+			<class name="com.LEGO.testSuite.Testing_XML" />
+		</classes>
+
+	</test>
+
+</suite>

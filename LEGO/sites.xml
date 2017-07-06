@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<sites>
+	<url>https://www.lego.com/en-us/architecture</url>
+	<url>https://www.lego.com/en-us/juniors</url>
+</sites>
